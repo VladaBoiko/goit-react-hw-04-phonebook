@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState } from 'react';
 import { AddForm } from 'components/Form/Form';
 import { MainTitle } from './MainTitle/MainTitle';
